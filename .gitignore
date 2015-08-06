@@ -1,0 +1,12 @@
+# Laravel 5 #
+########
+/vendor
+/node_modules
+/bootstrap/compiled.php
+Homestead.yaml
+.env.*
+.env
+.env.behat
+composer.phar
+storage/
+
